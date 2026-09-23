@@ -11,8 +11,8 @@ Telegram-бот для чатиков: легушька квакает, пере
 ## Установка
 
 ```bash
-git clone https://github.com/Rescor/legushka
-cd legushka
+git clone https://github.com/Rescor/Legushka
+cd Legushka
 python3 -m venv venv
 
 # Linux / macOS
